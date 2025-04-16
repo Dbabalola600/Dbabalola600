@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Dbabalola600&count_private=true&theme=dark)
 ![Github stats](https://github-readme-streak-stats.herokuapp.com?user=Dbabalola600&count_private=true&theme=dark)
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs?user=Dbabalola600&count_private=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dbabalola600&theme=dark)
 
